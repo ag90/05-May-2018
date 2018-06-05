@@ -11,13 +11,13 @@ public class demo {
 	@Test
 	public void m()
 	{
-		assertEquals("PMofIND", "PMofIndia");
+		assertEquals("Indian Currency", "INR");
 	}
 	
 	@Test
 	public void m1()
 	{
-		System.out.println("Primr Minister Office");
+		System.out.println("INDIA");
 	}
 
 }
